@@ -8,7 +8,7 @@ import numpy as np
 
 
 classes = ["歩兵","香車","桂馬","銀将","金将","角行","飛車","王将","と金","成香","成桂","成銀","竜馬","竜王"]
-image_size = 28
+image_size = 50
 
 UPLOAD_FOLDER = "uploads"
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
